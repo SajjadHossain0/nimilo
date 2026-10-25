@@ -1,0 +1,9 @@
+{
+  "uuid": "mochi-screensaver@sajjad.local",
+  "name": "Mochi Screensaver",
+  "description": "Animated Mochi eyes after keyboard and mouse inactivity. Move or press a key to return to your work. Offline; no browser required.",
+  "shell-version": ["46"],
+  "version": 2,
+  "settings-schema": "org.gnome.shell.extensions.mochi-screensaver",
+  "session-modes": ["user"]
+}

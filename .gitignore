@@ -1,0 +1,23 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated schemas and local artifacts
+gschemas.compiled
+*.log
+*.zip
+*.tar.gz
+build/
+dist/
+backups/
+
+# Local credentials and editor state
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
+*~
+*.swp

@@ -1,0 +1,10 @@
+{
+  "name": "mochi-screensaver",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Md. Sajjad Hossain",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --experimental-vm-modules tests/extension.test.mjs" }
+}

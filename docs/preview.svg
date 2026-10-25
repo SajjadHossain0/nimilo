@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 64" role="img" aria-labelledby="title desc">
+  <!-- SPDX-License-Identifier: MIT; Copyright (c) 2026 Md. Sajjad Hossain -->
+  <title id="title">Mochi white eyes</title>
+  <desc id="desc">A static illustration of two rounded white eyes on a black background.</desc>
+  <rect width="128" height="64" fill="#000000"/>
+  <rect x="27.5" y="18" width="25" height="28" rx="8" fill="#f1f5ee"/>
+  <rect x="75.5" y="18" width="25" height="28" rx="8" fill="#f1f5ee"/>
+</svg>

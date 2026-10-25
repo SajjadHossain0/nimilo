@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.mochi-screensaver" path="/org/gnome/shell/extensions/mochi-screensaver/">
+    <key name="idle-seconds" type="u"><range min="10" max="86400"/><default>300</default><summary>Seconds without keyboard or mouse input before showing Mochi</summary></key>
+    <key name="emotion" type="s"><choices><choice value="normal"/><choice value="happy"/><choice value="angry"/><choice value="surprised"/><choice value="sleepy"/><choice value="blinking"/><choice value="looking-around"/></choices><default>'normal'</default><summary>Eye expression</summary></key>
+    <key name="color" type="s"><choices><choice value="mint"/><choice value="ice"/><choice value="white"/><choice value="amber"/></choices><default>'mint'</default><summary>Eye color</summary></key>
+    <key name="brightness" type="u"><range min="10" max="100"/><default>85</default><summary>Eye brightness percentage</summary></key>
+  </schema>
+</schemalist>
